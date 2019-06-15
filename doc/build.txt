@@ -20,6 +20,9 @@ all/the specified platforms.
     --buildConfig....................... Use the specified build configuration
                                          instead of default build.json
 
+    --bundle ........................... Builds a Google Play Store bundle
+                                         file instead of an APK.
+
 To provide platform specific options, you must include them after `--`.
 
 Example
